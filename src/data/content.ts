@@ -86,7 +86,7 @@ export const skills: Skill[] = [
 ];
 
 export const socialLinks = {
-  instagram: 'https://instagram.com/yourusername',
+  instagram: 'https://www.instagram.com/ellnooo.___?igsh=dXBncndwcHR0NW51',
   linkedin: 'https://linkedin.com/in/yourusername',
   github: 'https://github.com/yourusername'
 };
